@@ -21,7 +21,7 @@ As a Dwarf, you have these special traits.
 You also have Advantage on saving throws you make to avoid or end the Poisoned Condition on yourself.  
 **Dwarven Toughness.** Your Hit Point Maximum increases by 1, and it increases by 1 again whenever you gain a level.  
 **Forge Wise.** Your divine creator gave you an uncanny affinity for working with stone or metal.
-You gain Tool Proficiency* with two of the following options of your choice: Jeweler’s Tools, Mason’s Tools, Smith’s Tools, or Tinker’s Tools.  
+You gain Tool Proficiency* with two of the following options of your choice: Jeweler's Tools, Mason's Tools, Smith's Tools, or Tinker's Tools.  
 **Stonecunning.** As a Bonus Action, you gain Tremorsense* with a range of 60 feet for 10 minutes.
 You must be on a stone surface or touching such a surface to use this Tremorsense.
 The stone can be natural or worked.

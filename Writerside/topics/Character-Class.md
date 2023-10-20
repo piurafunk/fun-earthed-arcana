@@ -1,7 +1,7 @@
 # Character Class
 
 Each Class contains the rules elements described below.
-Characters who have levels in a Class are exceptional; most of the inhabitants of the multiverse aren’t members of a Class.
+Characters who have levels in a Class are exceptional; most of the inhabitants of the multiverse aren't members of a Class.
 
 ## Primary Ability
 
@@ -23,28 +23,28 @@ The Class Groups table lists the groups and summarizes characteristics the membe
 |Priests|Cleric, Druid, Paladin|Stewards of Divine or Primal magic, focusing on healing, utility, and defense|
 |Warriors|Barbarian, Fighter, Monk|Masters of combat who can deal and endure many wounds|
 \* The Artificer is also an Expert.
-That Class appears in _Tasha’s Cauldron of Everything_ and _Eberron: Rising from the Last War_, not the _Player’s Handbook_.
+That Class appears in _Tasha's Cauldron of Everything_ and _Eberron: Rising from the Last War_, not the _Player's Handbook_.
 
 A Class Group has no rules in itself, but prerequisites and other rules can refer to these groups.
 For example, only members of the Mage Group might be able to attune to a particular magic item, or a Feat might be available only to members of the Warrior Group.
 
 When creating a party of adventurers, one way to form a well-rounded group is to include at least one member of each Class Group.
-That said, mix and match Classes to your heart’s content!
+That said, mix and match Classes to your heart's content!
 
 ## Creating a Member of the CLass
 
-A Class’s description includes a section on how to create a member of that Class.
+A Class's description includes a section on how to create a member of that Class.
 That section tells you how to determine your Hit Points, which Proficiencies and Armor Training you gain from the Class, the equipment the Class provides at 1st level, and how to use the multiclassing rules with the Class.
 
 ## Class Features
 
 Each Class grants special features at certain levels in the Class.
-Those features are listed on the Class’s table and detailed in the Class’s description.
+Those features are listed on the Class's table and detailed in the Class's description.
 
 ## Subclasses
 
-A Class’s description is followed by a section dedicated to Subclasses for that Class.
+A Class's description is followed by a section dedicated to Subclasses for that Class.
 A Subclass represents an area of specialization for a member of a Class, and the Subclass grants special features at certain levels.
 
-When playtesting the new version of a Class, you can use a Subclass from an older source, such as the 2014 _Player’s Handbook_ or _Tasha’s Cauldron of Everything_.
-If the older Subclass offers features at levels that are different from the Subclass levels in the Class, follow the older Subclass’s level progression after the Class lets you gain the Subclass.
+When playtesting the new version of a Class, you can use a Subclass from an older source, such as the 2014 _Player's Handbook_ or _Tasha's Cauldron of Everything_.
+If the older Subclass offers features at levels that are different from the Subclass levels in the Class, follow the older Subclass's level progression after the Class lets you gain the Subclass.

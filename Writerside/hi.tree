@@ -20,8 +20,11 @@
     <toc-element topic="Starting-Languages.md"/>
     <toc-element topic="Feats.md"/>
     <toc-element topic="Character-Class.md">
-        <toc-element topic="Bard.md">
+        <toc-element topic="Bard (Playtest 2).md">
             <toc-element topic="College-of-Lore.md"/>
+        </toc-element>
+        <toc-element topic="Ranger-Playtest-2.md">
+            <toc-element topic="Hunter.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>

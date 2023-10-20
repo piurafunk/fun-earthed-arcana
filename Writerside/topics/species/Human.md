@@ -9,7 +9,7 @@ Their ambition and resourcefulness are commended, respected, and feared.
 
 Humans are as diverse in appearance as the people of Earth, and they have many gods.
 Scholars dispute the origin of humanity, but one of the earliest known human gatherings is said to have occurred in Sigil, the torus-shaped city at the center of the multiverse and the place where the Common tongue was born.
-From there, humans could have spread to every corner of the multiverse, bringing Sigil’s cosmopolitanism with them.
+From there, humans could have spread to every corner of the multiverse, bringing Sigil's cosmopolitanism with them.
 
 ## Human Traits
 **Creature Type:** Humanoid  

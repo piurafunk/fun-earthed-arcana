@@ -2,15 +2,15 @@
 
 The earliest dragonborn hatched from the eggs of chromatic and metallic dragons.
 One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the worlds of dragons with people created in their image.
-Another story holds that dragons created the first dragonborn without the gods’ blessings.
+Another story holds that dragons created the first dragonborn without the gods' blessings.
 Whatever their origin, dragonborn have made homes for themselves on the worlds of the Material Plane.
 
 Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-boned, with horns on their heads.
 Dragonborn of chromatic ancestry have scales that are black, blue, green, red, or white, whereas dragonborn of metallic ancestry have scales that are the color of brass, bronze, copper, gold, or silver.
-When two dragonborn whose scales are of different colors produce a child, their offspring’s scales match those of one parent or the other.
+When two dragonborn whose scales are of different colors produce a child, their offspring's scales match those of one parent or the other.
 
 Like their draconic ancestors, dragonborn can exhale acid, cold, fire, lightning, or poison.
-One can tell the type of energy a dragonborn breathes by the color of the dragonborn’s scales.
+One can tell the type of energy a dragonborn breathes by the color of the dragonborn's scales.
 
 ## Dragonborn Traits
 

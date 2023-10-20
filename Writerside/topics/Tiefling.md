@@ -2,7 +2,7 @@
 
 Tieflings are either born in the Lower Planes or have one or more fiendish ancestors who originated there.
 A tiefling (pronounced TEEFling) is linked by blood to a devil, a demon, a yugoloth, or some other Fiend.
-This connection to the Lower Planes is, for better or worse, the tiefling’s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling’s moral outlook.
+This connection to the Lower Planes is, for better or worse, the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
 
 A tiefling chooses whether to embrace or lament their fiendish legacy.
 
@@ -32,7 +32,7 @@ Choose a legacy from the Fiendish Legacies table: Abyssal, associated with Chaot
 You gain the 1st-level benefit of the chosen legacy.
 
 Starting at 3rd level and again at 5th level, you gain the ability to cast a higher-level Spell with this trait, as shown on the table.
-Once you cast the Spell with this trait, you can’t cast that Spell with it again until you finish a Long Rest*; however, you can cast the Spell using any Spell Slots you have of the appropriate level.
+Once you cast the Spell with this trait, you can't cast that Spell with it again until you finish a Long Rest*; however, you can cast the Spell using any Spell Slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the lineage).
 

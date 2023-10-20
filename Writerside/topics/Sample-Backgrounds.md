@@ -1,25 +1,25 @@
 # Sample Backgrounds
 
 Here is a collection of sample Backgrounds that you can choose from when making a character.
-These Backgrounds were built using the rules in the “Build Your Background” section, and each of them contains story-oriented details that are meant inspire you as you think of your character’s backstory.
+These Backgrounds were built using the rules in the “Build Your Background” section, and each of them contains story-oriented details that are meant inspire you as you think of your character's backstory.
 
 The Feats mentioned in the Backgrounds appear later in this documentation.
 
 ## Acolyte
 **Ability Scores:** +2 Wisdom, +1 Intelligence  
 **Skill Proficiencies:** Insight, Religion  
-**Tool Proficiency:** Calligrapher’s Supplies  
+**Tool Proficiency:** Calligrapher's Supplies  
 **Language:** Celestial  
 **Feat:** Magic Initiate (Divine)
 
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove.
 There you performed hallowed rites in honor of a god or pantheon.
 You served under a priest and studied religion.
-Thanks to your priest’s instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
+Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
 
 **Equipment**
 - Book (Prayers)
-- Calligrapher’s Supplies
+- Calligrapher's Supplies
 - Holy Symbol
 - Parchment (10 sheets)
 - Robe
@@ -28,20 +28,20 @@ Thanks to your priest’s instruction and your own devotion, you also learned ho
 ## Artisan
 **Ability Scores:** +2 Intelligence, +1 Charisma  
 **Skill Proficiencies:** Investigation, Persuasion  
-**Tool Proficiency:** Artisan’s Tools* (one of your choice)  
+**Tool Proficiency:** Artisan's Tools* (one of your choice)  
 **Language:** Gnomish  
 **Feat:** Crafter
 
-You began mopping floors and scrubbing counters in an artisan’s workshop for a few coppers per day as soon as you were strong enough to carry a bucket.
+You began mopping floors and scrubbing counters in an artisan's workshop for a few coppers per day as soon as you were strong enough to carry a bucket.
 When you were finally old enough to apprentice, you learned to create basic crafts of your own, as well as how to sweet-talk the occasional demanding customer.
-As part of your studies, you picked up Gnomish, the tongue from which so many of the artisan’s terms of art are derived.
+As part of your studies, you picked up Gnomish, the tongue from which so many of the artisan's terms of art are derived.
 
 **Equipment**
 - Abacus
-- Artisan’s Tools (same as above)
-- Merchant’s Scale
+- Artisan's Tools (same as above)
+- Merchant's Scale
 - Pouch (2)
-- Traveler’s Clothes
+- Traveler's Clothes
 - 25 GP
 
 ## Charlatan
@@ -64,20 +64,20 @@ You are fluent in Infernal, the ancient language of deception.
 ## Criminal
 **Ability Scores:** +2 Dexterity, +1 Intelligence  
 **Skill Proficiencies:** Sleight of Hand, Stealth  
-**Tool Proficiency:** Thieves’ Tools  
-**Language:** Thieves’ Cant  
+**Tool Proficiency:** Thieves' Tools  
+**Language:** Thieves' Cant  
 **Feat:** Alert
 
 You learned to earn your coin in dark alleyways, cutting purses or burgling shops.
 Perhaps you were part of a small gang of like-minded wrongdoers, who looked out for each other.
-Or maybe you were a lone wolf, fending for yourself against the local thieves’ guild and older, more fearsome lawbreakers.
+Or maybe you were a lone wolf, fending for yourself against the local thieves' guild and older, more fearsome lawbreakers.
 
 **Equipment**
 - Crowbar
 - Dagger (2)
 - Pouch (2)
-- Thieves’ Tools
-- Traveler’s Clothes
+- Thieves' Tools
+- Traveler's Clothes
 - 16 GP
 
 ## Cultist
@@ -89,7 +89,7 @@ Or maybe you were a lone wolf, fending for yourself against the local thieves’
 
 You scarcely recall what drove you into the service of the otherworldly being.
 Those memories were blotted out long ago by recurrent dreams of midnight gatherings round the obsidian pillar in the glade.
-By the light of each waning moon, the hierophants instructed you in the being’s creed and the rudiments of the arcane arts.
+By the light of each waning moon, the hierophants instructed you in the being's creed and the rudiments of the arcane arts.
 When you came of age, you were ordered to blend in among the nonbelievers and await whatever mission the Great One has in store for you.
 
 **Equipment**
@@ -117,49 +117,49 @@ To this day, you thrive on applause and long for the stage.
 - Musical Instrument (same as above)
 - Perfume
 - Steel Mirror
-- Traveler’s Clothes
+- Traveler's Clothes
 - 8 GP
 
 ## Farmer
 **Ability Scores:** +2 Constitution, +1 Wisdom  
 **Skill Proficiencies:** Animal Handling, Nature  
-**Tool Proficiency:** Carpenter’s Tools  
+**Tool Proficiency:** Carpenter's Tools  
 **Language:** Halfling  
 **Feat:** Tough
 
 You grew up close to the land.
 Years tending animals and cultivating the earth rewarded you with patience and good health.
-You have a keen appreciation for nature’s bounty alongside a healthy respect for nature’s wrath.
+You have a keen appreciation for nature's bounty alongside a healthy respect for nature's wrath.
 Like many farmers, you made frequent use of the agricultural almanacs produced by the greatest halfling farmers.
 
 **Equipment**
-- Carpenter’s Tools
-- Healer’s Kit
+- Carpenter's Tools
+- Healer's Kit
 - Iron Pot
 - Shovel
 - Sickle
-- Traveler’s Clothes
+- Traveler's Clothes
 - 23 GP
 
 ## Gladiator
 **Ability Scores:** +2 Strength, +1 Charisma  
 **Skill Proficiencies:** Athletics, Performance  
-**Tool Proficiency:** Smith’s Tools  
+**Tool Proficiency:** Smith's Tools  
 **Language:** Orc  
 **Feat:** Savage Attacker
 
 Your first few appearances in the gladiatorial pits led you to appreciate every one of the scars you carry from your instructors and sparring partners.
 Each scar was a lesson that taught you how to best your opponents and curry favor with the crowds your brawls entertained.
 Your time in the pits left you with a strong hand and a strong heart.
-You’ll forever share a remarkable bond with the other pit fighters in your stable - humans, dragonborn, dwarves, and orcs - hardened warriors all.
+You'll forever share a remarkable bond with the other pit fighters in your stable - humans, dragonborn, dwarves, and orcs - hardened warriors all.
 
 **Equipment**
 - Chain
 - Costume
-- Healer’s Kit
+- Healer's Kit
 - Javelin (6)
-- Smith’s Tools
-- Traveler’s Clothes
+- Smith's Tools
+- Traveler's Clothes
 - 15 GP
 
 ## Guard
@@ -171,7 +171,7 @@ You’ll forever share a remarkable bond with the other pit fighters in your sta
 
 Your feet begin to ache when you remember the countless hours you spent at your post in the tower.
 You were trained to keep one eye outside the wall, watching for marauders sweeping from the nearby forest, and your other eye inside the wall, searching for cut-purses and troublemakers.
-At the end of each shift, you bunked in the mayor’s barracks alongside your fellow sentries and the dwarven smiths who kept your armor snug and your weapons sharp.
+At the end of each shift, you bunked in the mayor's barracks alongside your fellow sentries and the dwarven smiths who kept your armor snug and your weapons sharp.
 
 **Equipment**
 - Crossbow Bolt (20)
@@ -181,13 +181,13 @@ At the end of each shift, you bunked in the mayor’s barracks alongside your fe
 - Manacles
 - Quiver 
 - Spear
-- Traveler’s Clothes 
+- Traveler's Clothes 
 - 12 GP
 
 ## Guide
 **Ability Scores:** +2 Wisdom, +1 Dexterity  
 **Skill Proficiencies:** Stealth, Survival  
-**Tool Proficiency:** Cartographer’s Tools
+**Tool Proficiency:** Cartographer's Tools
 **Language:** Giant
 **Feat:** Magic Initiate (Primal)
 
@@ -199,12 +199,12 @@ From time to time, you traveled with a pair of friendly druids who were kind eno
 **Equipment**
 - Arrow (20)
 - Bedroll 
-- Cartographer’s Tools
+- Cartographer's Tools
 - Fishing Tackle 
 - Quiver
 - Shortbow
 - Tent
-- Traveler’s Clothes
+- Traveler's Clothes
 - 2 GP
 
 ## Hermit
@@ -226,13 +226,13 @@ The quiet and solitude you found in your time outside society allowed you to spe
 - Lamp
 - Oil (3 flasks)
 - Quarterstaff
-- Traveler’s Clothes
+- Traveler's Clothes
 - 15 GP
 
 ## Laborer
 **Ability Scores:** +2 Constitution, +1 Strength  
 **Skill Proficiencies:** Athletics, Survival  
-**Tool Proficiency:** Mason’s Tools  
+**Tool Proficiency:** Mason's Tools  
 **Language:** Dwarvish  
 **Feat:** Tough
 
@@ -248,7 +248,7 @@ The masons who taught you were taught by even older masons who were taught by dw
 - Common Clothes
 - Handaxe
 - Light Hammer
-- Mason’s Tools
+- Mason's Tools
 - Mess Kit
 - Oil (1 flask)
 - Shovel
@@ -283,21 +283,21 @@ Your time in the castle, especially the many hours you spent observing your fami
 **Feat:** Healer
 
 You and a group of like-minded believers - mostly humans and halflings - once endeavored to walk a thousand miles of road to reach a faraway shrine.
-Priests counseled at the outset that, long after your journey was complete, you’d come to realize that you found the key to your salvation not at your destination, but somewhere along the road that led there.
+Priests counseled at the outset that, long after your journey was complete, you'd come to realize that you found the key to your salvation not at your destination, but somewhere along the road that led there.
 
 **Equipment**
 - Bedroll
-- Healer’s Kit
+- Healer's Kit
 - Holy Symbol
 - Musical Instrument
 - Rations (2 days)
-- Traveler’s Clothes
+- Traveler's Clothes
 - 16 GP
 
 ## Sage
 **Ability Scores:** +2 Intelligence, +1 Wisdom  
 **Skill Proficiencies:** Arcana, History  
-**Tool Proficiency:** Calligrapher’s Supplies  
+**Tool Proficiency:** Calligrapher's Supplies  
 **Language:** Elvish  
 **Feat:** Magic Initiate (Arcane)
 
@@ -306,7 +306,7 @@ You wiled away many a long evening with your nose buried in books and scrolls, l
 
 **Equipment**
 - Book (History)
-- Calligrapher’s Supplies
+- Calligrapher's Supplies
 - Parchment (8 sheets)
 - Quarterstaff
 - Robe
@@ -315,19 +315,19 @@ You wiled away many a long evening with your nose buried in books and scrolls, l
 ## Sailor
 **Ability Scores:** +2 Dexterity, +1 Wisdom  
 **Skill Proficiencies:** Acrobatics, Perception  
-**Tool Proficiency:** Navigator’s Tools  
+**Tool Proficiency:** Navigator's Tools  
 **Language:** Primordial  
 **Feat:** Tavern Brawler
 
-Thus far, you’ve spent most of your days living the life of a seafarer, wind at your back and decks swaying beneath your feet, as you sailed toward your next adventure.
-You’ve perched on barstools in more ports of call than you can remember, faced down mighty storms, and swapped stories with the folk who live beneath the waves.
+Thus far, you've spent most of your days living the life of a seafarer, wind at your back and decks swaying beneath your feet, as you sailed toward your next adventure.
+You've perched on barstools in more ports of call than you can remember, faced down mighty storms, and swapped stories with the folk who live beneath the waves.
 
 **Equipment**
 - Dagger
 - Fishing Tackle
-- Navigator’s Tools
+- Navigator's Tools
 - Silk Rope
-- Traveler’s Clothes
+- Traveler's Clothes
 - 10 GP
 
 ## Soldier
@@ -344,17 +344,17 @@ Eventually, you put that training to use on the battlefield, protecting the real
 **Equipment**
 - Arrow (20)
 - Gaming Set (same as above)
-- Healer’s Kit
+- Healer's Kit
 - Quiver
 - Shortbow
 - Spear
-- Traveler’s Clothes
+- Traveler's Clothes
 - 14 GP
 
 ## Urchin
 **Ability Scores:** +2 Dexterity, +1 Wisdom  
 **Skill Proficiencies:** Insight, Stealth  
-**Tool Proficiency:** Thieves’ Tools  
+**Tool Proficiency:** Thieves' Tools  
 **Language:** Common Sign Language  
 **Feat:** Lucky
 

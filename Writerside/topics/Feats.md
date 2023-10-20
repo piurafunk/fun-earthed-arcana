@@ -1,22 +1,22 @@
 # Feats
 
 This section offers a collection of 1st-level Feats, which are special features not tied to a single Class.
-At 1st level, your character gains a Feat from the character’s Background.
+At 1st level, your character gains a Feat from the character's Background.
 
 ## Parts of a Feat
 
-The description of a Feat contains the following parts, which are presented after the Feat’s name:
+The description of a Feat contains the following parts, which are presented after the Feat's name:
 
 **Level.** Each Feat has a level.
-To take a Feat, your level must equal or exceed the Feat’s level.  
+To take a Feat, your level must equal or exceed the Feat's level.  
 **Prerequisite.** You must meet any prerequisite specified in a Feat to take that Feat.
-If you lose a Feat’s prerequisite, you can’t use that Feat until you regain the prerequisite.  
+If you lose a Feat's prerequisite, you can't use that Feat until you regain the prerequisite.  
 **Repeated.** If a Feat is repeatable, you can take it more than once.
-If it isn’t repeatable, you can take the Feat only once.
+If it isn't repeatable, you can take the Feat only once.
 
 ## Feat Descriptions
 
-Here are the descriptions of Feats mentioned in this documentation’s Backgrounds.
+Here are the descriptions of Feats mentioned in this documentation's Backgrounds.
 The Feats are presented in alphabetical orders.
 
 ## Alert
@@ -28,7 +28,7 @@ Always on the lookout for danger, you gain the following benefits:
 
 **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the  roll.  
 **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat.
-You can’t make this swap if you or the ally is Incapacitated.*
+You can't make this swap if you or the ally is Incapacitated.*
 
 ## Crafter
 _1st-Level Feat_  
@@ -37,7 +37,7 @@ _1st-Level Feat_
 
 You are adept at crafting things and bargaining with merchants, granting you the following benefits:
 
-**Tool Proficiency.** You gain Tool Proficiency* with three different Artisan’s Tools* of your choice.  
+**Tool Proficiency.** You gain Tool Proficiency* with three different Artisan's Tools* of your choice.  
 **Discount.** Whenever you buy a non-magical item, you receive a 20 percent discount on it.  
 **Faster Crafting.** When you craft an item using a tool with which you have Tool Proficiency, the required crafting time is reduced by 20  percent.
 
@@ -48,10 +48,10 @@ _1st-Level Feat_
 
 You have the training and intuition to administer first aid and other care effectively, granting you the following benefits:
 
-**Battle Medic.** If you have a Healer’s Kit, you can expend one use of it and tend to a creature within 5 feet of you as an Action.
+**Battle Medic.** If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of you as an Action.
 That creature can expend one of its Hit Dice, and you then roll that die.
 The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.  
-**Healing Rerolls.** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat’s Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
+**Healing Rerolls.** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ## Lucky
 _1st-Level Feat_  
@@ -81,7 +81,7 @@ You can cast it once without a Spell Slot, and you regain the ability to cast it
 You can also cast the Spell using any Spell Slots you have.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these Spells (choose when you select this Feat).
-Consult the Player’s Handbook for the rules on spellcasting.
+Consult the Player's Handbook for the rules on spellcasting.
 
 Whenever you gain a new level, you can replace one of the Spells you chose for this Feat with a different Spell of the same level from the chosen Spell list.
 
@@ -102,7 +102,7 @@ _1st-Level Feat_
 **Repeatable:** No
 
 You have trained to deal particularly damaging strikes.
-When you take the Attack Action and hit a target with a Weapon as part of that Action, you can roll the Weapon’s damage dice twice and use either roll against the target.
+When you take the Attack Action and hit a target with a Weapon as part of that Action, you can roll the Weapon's damage dice twice and use either roll against the target.
 You can use this benefit only once per turn.
 
 ## Skilled

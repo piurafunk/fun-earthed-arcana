@@ -6,8 +6,8 @@ Even when they turn their devotion to other gods, orcs retain the gifts that the
 
 Orcs are, on average, tall and broad.
 They have gray skin, ears that are small and slightly pointed, and prominent lower canines that resemble small tusks.
-Young orcs are often told about their ancestors’ ancient conflicts with elves in forests, dwarves under mountains, and invaders from evil planes of existence.
-Inspired by those tales, young orcs often wonder when Gruumsh will call on them to match the heroic deeds of their ancestors, and if they will prove worthy of the One-Eyed God’s grace.
+Young orcs are often told about their ancestors' ancient conflicts with elves in forests, dwarves under mountains, and invaders from evil planes of existence.
+Inspired by those tales, young orcs often wonder when Gruumsh will call on them to match the heroic deeds of their ancestors, and if they will prove worthy of the One-Eyed God's grace.
 
 ## Orc Traits
 
@@ -24,7 +24,7 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 **Darkvision.** You have Darkvision with a range of 60 feet.  
 **Powerful Build.** You count as one Size larger when determining your carrying capacity and the weight you can push, drag, or lift.  
 **Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead.
-Once you use this trait, you can’t do so again until you finish a Long Rest.*
+Once you use this trait, you can't do so again until you finish a Long Rest.*
 
 ## Orcs of Many Worlds
 
@@ -35,4 +35,4 @@ Orcs sometimes flock to the banners of powerful monarchs.
 King Obould Many-Arrows of Toril (the world of the Forgotten Realms setting) is one such figure, his strength tempered by a willingness to make peace with his enemies.
 
 On worlds such as Eberron, orcs were among those who defended the natural order from the encroachments of Fiends and other extraplanar threats.
-Their descendants learned to live in harmony with their neighbors and the natural world, and to many of them, Gruumsh’s wars are distant memories.
+Their descendants learned to live in harmony with their neighbors and the natural world, and to many of them, Gruumsh's wars are distant memories.

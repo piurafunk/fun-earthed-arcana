@@ -1,4 +1,4 @@
-# Bard
+# Bard (Playtest 2)
 
 **Class Group:** Expert  
 **Primary Ability:** Charisma  
@@ -15,8 +15,8 @@ Bards become masters of many things, including musical performance, the workings
 Not every singer or poet in a tavern or jester in a royal court is a Bard.
 Harnessing the Words of Creation requires hard work and some measure of natural talent that most troubadours and jongleurs lack.
 It can sometimes be hard to spot the difference between these performers and Bards, though.
-A Bard’s life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer.
-But Bards’ depth of knowledge, level of musical skill, and mastery of magic sets them apart.
+A Bard's life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer.
+But Bards' depth of knowledge, level of musical skill, and mastery of magic sets them apart.
 
 **Bard**
 
@@ -47,7 +47,7 @@ But Bards’ depth of knowledge, level of musical skill, and mastery of magic se
 ## Creating a Bard
 
 To create a Bard, consult the following lists, which provide Hit Points, Proficiencies, and Armor Training.
-If you’re making a 1st-level character, also consult the “Starting Equipment” section, and if you’re using the multiclassing rules, see the “Multiclassing and the Bard” section.
+If you're making a 1st-level character, also consult the “Starting Equipment” section, and if you're using the multiclassing rules, see the “Multiclassing and the Bard” section.
 
 Then look at the Bard table to see the Class Features you get at each level in this Class.
 The descriptions of those features appear in the “Bard Class Features” section.
@@ -74,7 +74,7 @@ Light Armor
 As a 1st-level character, you start with the following equipment, or you can forgo it and spend 100 GP on equipment of your choice.
 
 - Dagger
-- Entertainer’s Pack
+- Entertainer's Pack
 - Leather Armor
 - Musical Instrument (one of your choice)
 - Shortsword
@@ -82,11 +82,11 @@ As a 1st-level character, you start with the following equipment, or you can for
 
 ## Multiclassing and the Bard
 
-If your group uses the multiclassing rules in the _Player’s Handbook_, here’s what you need to know if you choose Bard as one of your Classes.
+If your group uses the multiclassing rules in the _Player's Handbook_, here's what you need to know if you choose Bard as one of your Classes.
 
-**Ability Score Minimum.** As a multiclass character, you must have a score of at least 13 in the Bard’s primary ability, Charisma, to take a level in this Class or to take a level in another Class if you are already a Bard.
+**Ability Score Minimum.** As a multiclass character, you must have a score of at least 13 in the Bard's primary ability, Charisma, to take a level in this Class or to take a level in another Class if you are already a Bard.
 
-**Proficiencies.** If Bard isn’t your initial Class, here are the Proficiencies you gain when you take your first Bard level: one Skill of your choice and one Musical Instrument of your choice.
+**Proficiencies.** If Bard isn't your initial Class, here are the Proficiencies you gain when you take your first Bard level: one Skill of your choice and one Musical Instrument of your choice.
 
 **Armor Training.** When you gain your first Bard level, you gain Light Armor Training.
 
@@ -110,7 +110,7 @@ This inspiration is represented by your Bardic Inspiration die, which is a d6.
 The creature rolls that die and adds the number rolled to the d20, potentially turning the failure into a success.
 - **_Heal._** Immediately after another creature within 60 feet of you that you can see or hear takes damage, you can use your Reaction to roll your Bardic Inspiration die and restore a number of Hit Points to the creature equal to the number rolled.
 
-**Number of Uses.** A Bardic Inspiration die is expended when it’s rolled.
+**Number of Uses.** A Bardic Inspiration die is expended when it's rolled.
 You can confer a Bardic Inspiration die a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 **At Higher Levels.** Your Bardic Inspiration die changes when you reach certain levels in this Class, as shown in the Bardic Die column of the Bard table.
@@ -119,7 +119,7 @@ The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 ### 1st Level: Spellcasting
 
 You have learned to cast Spells through your bardic arts.
-See the _Player’s Handbook_ for the rules on spellcasting.
+See the _Player's Handbook_ for the rules on spellcasting.
 The information below details how you use those rules as a Bard.
 
 **Prepared Spells.** You have the following Spells prepared: Color Spray, Disguise Self, Prestidigitation, and Vicious Mockery.
@@ -133,7 +133,7 @@ The numbers there determine the number of different Spells you can prepare of ea
 For example, as a 3rd-level Bard, you can prepare two different 0-level Spells, four different 1st-level Spells, and two different 2nd-level Spells.
 
 Consult the “Prepared Bard Spells” section for recommendations on which spells to prepare at higher levels.
-A Spell marked with a dagger (†) in that section is always prepared and can’t be replaced when you prepare Spells.
+A Spell marked with a dagger (†) in that section is always prepared and can't be replaced when you prepare Spells.
 
 **Spell Slots.** The Bard table shows how many Spell Slots you have at each level to cast your Bard Spells of 1st level and higher; the number of different Spells you can prepare of each level equals the number of Spell Slots you have at that level.
 For example, as a 5th-level Bard, you have four 1st-level Spell Slots, three 2nd-level Spell Slots, and two 3rd-level Spell Slots.
@@ -172,7 +172,7 @@ You gain the College of Lore Subclass or another Bard Subclass of your choice.
 
 A Subclass is a specialization that grants you special abilities at certain Bard levels, as specified in the Subclass.
 
-For the rest of your career, you gain each of your Subclass’s features that are of your Bard level and lower.
+For the rest of your career, you gain each of your Subclass's features that are of your Bard level and lower.
 This Class' description tells you the levels when your Subclass provides features.
 
 ### 4th Level: Feat
@@ -192,7 +192,7 @@ You gain a feature from your Bard Subclass.
 
 You now regain all your expended uses of Bardic Inspiration when you finish a Short Rest or a Long Rest.
 
-In addition, if a creature rolls your Bardic Inspiration die and gets a 1 (after any rerolls you might have), that use of your Bardic Inspiration isn’t expended.
+In addition, if a creature rolls your Bardic Inspiration die and gets a 1 (after any rerolls you might have), that use of your Bardic Inspiration isn't expended.
 
 ### 8th Level: Feat
 
@@ -250,7 +250,7 @@ This section provides recommended Spells that you prepare at each Bard level.
 Look for your Bard level, and you prepare the spells for that level and all lower Bard levels.
 Whenever you finish a Long Rest, you can change these Spells, as explained in this Class' Spellcasting feature.
 
-A Spell marked with a dagger (†) is always prepared and can’t be replaced when you prepare Spells.
+A Spell marked with a dagger (†) is always prepared and can't be replaced when you prepare Spells.
 
 
 |-|-|
@@ -300,7 +300,7 @@ A Spell marked with a dagger (†) is always prepared and can’t be replaced wh
 
 |-|-|
 |**11th- and 12th-Level Bard**||
-|6th-Level Spells|Otto’s Irresistible Dance|
+|6th-Level Spells|Otto's Irresistible Dance|
 
 |-|-|
 |**13th- and 14th-Level Bard**||
