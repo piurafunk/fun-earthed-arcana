@@ -4,9 +4,9 @@ Your character's Background is a collection of characteristics that represent th
 
 When you choose a Background, you have three options:
 
-- Build a Background by using the rules in the  “Build Your Background” section.  
-- Select a premade Background from the “Sample Backgrounds” section.
-- Select a premade Background from the “Sample Backgrounds” section and then customize it with the rules in the “Build Your Background” section.
+- Build a Background by using the rules in the  "Build Your Background" section.  
+- Select a premade Background from the "Sample Backgrounds" section.
+- Select a premade Background from the "Sample Backgrounds" section and then customize it with the rules in the "Build Your Background" section.
 
 
 No matter which Background you choose, consider these questions from your character's viewpoint:
@@ -19,7 +19,7 @@ No matter which Background you choose, consider these questions from your charac
 
 Using the rules here, you can build a Background from scratch or customize a premade Background, focusing on details  related to the backstory you have in mind for  your character.
 
-When you build a Background, your character gains the features in the “Background Features” section below.
+When you build a Background, your character gains the features in the "Background Features" section below.
 As you make choices for those features, think about your character's past.
 Where did they spend most of their time?
 What  did they do for a living?

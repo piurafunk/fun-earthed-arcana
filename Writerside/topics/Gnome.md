@@ -7,7 +7,7 @@ They confounded predators with elaborate traps and low, narrow, labyrinthine tun
 They also learned useful magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who often lived among them (usually in disguise).
 
 Gnomes are petite folk with big eyes, pointed ears, and wistful imaginations.
-Harkening back to a time when their ancestors hid in tunnels and under thick forest canopies, many gnomes like the feeling of a roof over their head, even if that “roof” is nothing more than a hat.
+Harkening back to a time when their ancestors hid in tunnels and under thick forest canopies, many gnomes like the feeling of a roof over their head, even if that "roof" is nothing more than a hat.
 
 ## Gnome Traits
 

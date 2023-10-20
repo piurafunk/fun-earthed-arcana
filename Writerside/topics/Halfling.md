@@ -4,7 +4,7 @@ Cherished and guided by gods who value life, home, and hearth, halflings gravita
 That said, many halflings are blessed (some might say cursed) with a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way.
 Their size — being not unlike that of a human child — helps them avoid unwanted entanglements and slip into and out of tight spaces.
 
-Anyone who has spent time around halflings, and particularly halfling adventurers, has likely witnessed the storied “luck of the halflings” in action.
+Anyone who has spent time around halflings, and particularly halfling adventurers, has likely witnessed the storied "luck of the halflings" in action.
 When a halfling is in mortal danger, it seems as though an unseen force intervenes on the halfling's behalf.
 Many halflings believe in the power of luck, and they attribute their unusual gift to one or more of their benevolent gods, including Yondalla, Brandobaris, and Charmalaine.
 

@@ -1,7 +1,7 @@
 # Sample Backgrounds
 
 Here is a collection of sample Backgrounds that you can choose from when making a character.
-These Backgrounds were built using the rules in the “Build Your Background” section, and each of them contains story-oriented details that are meant inspire you as you think of your character's backstory.
+These Backgrounds were built using the rules in the "Build Your Background" section, and each of them contains story-oriented details that are meant inspire you as you think of your character's backstory.
 
 The Feats mentioned in the Backgrounds appear later in this documentation.
 

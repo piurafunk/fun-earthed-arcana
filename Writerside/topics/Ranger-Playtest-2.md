@@ -14,10 +14,10 @@ A Ranger's talents and magic are honed with deadly focus on the task of protecti
 ## Creating a Ranger
 
 To create a Ranger, consult the following lists, which provide Hit Points, Proficiencies, and Armor Training.
-If you're making a 1st-level character, also consult the “Starting Equipment” section, and if you're using the multiclassing rules, see the “Multiclassing and the Ranger” section.
+If you're making a 1st-level character, also consult the "Starting Equipment" section, and if you're using the multiclassing rules, see the "Multiclassing and the Ranger" section.
 
 Then look at the Ranger table to see the Class Features you get at each level in this Class.
-The descriptions of those features appear in the “Ranger Class Features” section.
+The descriptions of those features appear in the "Ranger Class Features" section.
 
 ### Hit Points
 **Hit Dice:** 1d10 per Ranger level  

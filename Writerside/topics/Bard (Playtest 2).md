@@ -47,10 +47,10 @@ But Bards' depth of knowledge, level of musical skill, and mastery of magic sets
 ## Creating a Bard
 
 To create a Bard, consult the following lists, which provide Hit Points, Proficiencies, and Armor Training.
-If you're making a 1st-level character, also consult the “Starting Equipment” section, and if you're using the multiclassing rules, see the “Multiclassing and the Bard” section.
+If you're making a 1st-level character, also consult the "Starting Equipment" section, and if you're using the multiclassing rules, see the "Multiclassing and the Bard" section.
 
 Then look at the Bard table to see the Class Features you get at each level in this Class.
-The descriptions of those features appear in the “Bard Class Features” section.
+The descriptions of those features appear in the "Bard Class Features" section.
 
 ### Hit Points
 
@@ -132,7 +132,7 @@ At higher levels in this Class, you can prepare more Spells, as shown on the Bar
 The numbers there determine the number of different Spells you can prepare of each level.
 For example, as a 3rd-level Bard, you can prepare two different 0-level Spells, four different 1st-level Spells, and two different 2nd-level Spells.
 
-Consult the “Prepared Bard Spells” section for recommendations on which spells to prepare at higher levels.
+Consult the "Prepared Bard Spells" section for recommendations on which spells to prepare at higher levels.
 A Spell marked with a dagger (†) in that section is always prepared and can't be replaced when you prepare Spells.
 
 **Spell Slots.** The Bard table shows how many Spell Slots you have at each level to cast your Bard Spells of 1st level and higher; the number of different Spells you can prepare of each level equals the number of Spell Slots you have at that level.
