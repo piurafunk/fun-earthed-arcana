@@ -1,4 +1,4 @@
-# Chracter Backgrounds
+# Character Backgrounds
 
 Your character's Background is a collection of characteristics that represent the place and occupation that were most formative for the  character before they embarked on a life of  adventure.
 

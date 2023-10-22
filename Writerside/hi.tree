@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="Hyrumites V2" start-page="Character Origins.md">
+<instance-profile id="hi" name="Hyrumites V2" start-page="Introduction.md">
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="Character-Class.md">
+        <toc-element topic="Bard (Playtest 2).md">
+            <toc-element topic="College-of-Lore.md"/>
+        </toc-element>
+        <toc-element topic="Ranger-Playtest-2.md">
+            <toc-element topic="Hunter.md"/>
+        </toc-element>
+        <toc-element topic="Rogue-Playtest-2.md">
+            <toc-element topic="Thief.md"/>
+        </toc-element>
+    </toc-element>
     <toc-element topic="Character Origins.md"/>
     <toc-element topic="Character Species.md">
         <toc-element topic="Human.md"/>
@@ -19,15 +31,4 @@
     </toc-element>
     <toc-element topic="Starting-Languages.md"/>
     <toc-element topic="Feats.md"/>
-    <toc-element topic="Character-Class.md">
-        <toc-element topic="Bard (Playtest 2).md">
-            <toc-element topic="College-of-Lore.md"/>
-        </toc-element>
-        <toc-element topic="Ranger-Playtest-2.md">
-            <toc-element topic="Hunter.md"/>
-        </toc-element>
-        <toc-element topic="Rogue-Playtest-2.md">
-            <toc-element topic="Thief.md"/>
-        </toc-element>
-    </toc-element>
 </instance-profile>
