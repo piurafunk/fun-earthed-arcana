@@ -1,5 +1,6 @@
 # Ardling
 
+# Playtest 1
 Ardlings are supernal beings who are either born on the Upper Planes or have one or more ancestors who originated there.
 Their bright souls shine with the light of immortal beings who call the Upper Planes home.
 
@@ -55,3 +56,53 @@ On many worlds, the first ardlings used the magic of their celestial legacies to
 By virtue of their celestial legacies, some ardlings strive to make the world a better place.
 Others use their supernal gifts to be the best version of themselves they can be.
 Still others are delighted to have a connection to the Upper Planes without the responsibility of always having to do the right thing.
+
+
+# Playtest 3
+
+Celestial animals roam the Beastlands, a plane of untamed beauty and wild nature.
+Many of those otherworldly animals serve the Beast Lords, and in the early days of the multiverse, some of the animals evolved into bipedal forms.
+Among their number are Ardlings, people with beastlike heads, keen senses, and an innate connection to divine magic.
+Long ago, the ancestors of Ardlings migrated to the Material Plane, and Ardlings can now be found on many worlds.
+
+An Ardling has a head resembling that of an animal.
+Depending on the animal, the Ardling might also have fur, feathers, or scales.
+Some little and others hulking, Ardlings are as varied as the animals they resemble.
+
+## Ardling Adventurer Traits
+
+**Creature Type:** Humanoid  
+**Size:** Medium (about 4–7 feet tall) or Small (about 3–4 feet tall), chosen when you select this Species  
+**Speed:** 30 feet  
+**Life Span:** 200 years on average
+
+As an Ardling adventurer, you have the following special traits.
+
+### Animal Ancestry
+
+You are descended from a Celestial animal.
+Choose one of the ancestry types below, then choose one of the example animals listed for that ancestry (or a similar animal); you gain the benefits of that ancestry, and your head resembles the head of the chosen animal:
+
+**Climber (Bear, Cat, Lizard, Squirrel).** You have hooked claws, sharp nails, or a serpentine tail.
+As a result, you have a Climb Speed equal to your Speed, and once per turn when you deal damage with your Unarmed Strike to a target, you can increase the damage to that target by an amount equal to your Proficiency Bonus.
+
+**Flyer (Bat, Eagle, Owl, Raven).** You have vestigial wings.
+As a result, when you fall at least 10 feet, you can use your Reaction to safely glide downward, taking no damage from the fall.
+In addition, when you take the Jump Action, you can flap your wings to gain Advantage on that Action’s Ability Check.
+
+**Racer (Deer, Dog, Horse, Triceratops).** When you take the Dash Action, your Speed increases for that Action.
+The increase equals ten times your Proficiency Bonus.
+
+**Swimmer (Crocodile, Dolphin, Frog, Shark).** You can hold your breath for up to an hour at a time, and you have a Swim Speed equal to your Speed.
+In addition, you have Resistance to Cold Damage.
+
+### Divine Magic
+
+You can innately channel minor divine magic; you know the Thaumaturgy Spell.
+Whenever you finish a Long Rest, you can replace that Spell with a different 0-level Spell from the Divine Spell list.
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for any Spell you cast with this trait (choose the ability when you select the Species).
+
+### Keen Senses
+
+You have Proficiency in the Perception Skill.
