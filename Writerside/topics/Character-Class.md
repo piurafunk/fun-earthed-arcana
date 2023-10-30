@@ -5,8 +5,8 @@ Characters who have levels in a Class are exceptional; most of the inhabitants o
 
 ## Primary Ability
 
-The primary ability of a Class is critical to some of the Class' features, so when you create your character, that ability is a great place to put one of your highest scores.
-Similarly, whenever you gain the Ability Score Improvement Feat, consider increasing your primary ability.
+The primary ability of a Class is critical to some of the Class' features, so when you create your character, that ability is a great place to put one of your highest scores.  
+Similarly, whenever you gain the Ability Score Improvement Feat, consider increasing your primary ability.  
 Finally, to use the multiclassing rules, you must have at least a score of 13 in the primary ability of all your classes.
 
 ## Class Group
