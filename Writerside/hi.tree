@@ -19,6 +19,7 @@
     </toc-element>
     <toc-element topic="Character Origins.md"/>
     <toc-element topic="Character Species.md">
+        <toc-element topic="Goliath.md"/>
         <toc-element topic="Human.md"/>
         <toc-element topic="Ardling.md"/>
         <toc-element topic="Dragonborn.md"/>
