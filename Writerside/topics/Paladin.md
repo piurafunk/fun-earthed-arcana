@@ -163,9 +163,26 @@ Within the same radius, you also detect the presence of any place or object that
 
 You gain the Oath of Devotion subclass or another Paladin subclass of your choice.
 
-A subclass is a specialization that grants you special abilities at certain Paladin levels.
+A subclass is a specialization that grants you special abilities at certain Paladin levels, as specified in the subclass.
 For the rest of your career, you gain each of your subclass' features that are of your Paladin level and lower.
 This class' description tells you the levels when your subclass provides features.
+
+Each of this class' subclasses represents a body of oaths that a Paladin begins taking upon joining the class.
+The final oath, taken at 3rd level, is the culmination of a Paladin's training.
+Some characters with this class don't consider themselves true Paladins until they have reached 3rd level and made this oath.
+For others, the actual swearing of the oath is a formality, an official stamp on what was already true in the Paladin's heart.
+
+### Breaking your Oath
+
+A Paladin tries to hold to the highest standards of conduct, but even the most dedicated Paladin is fallible.
+Sometimes the right path proves too demanding, and sometimes the heat of emotion causes a Paladin to transgress their oath.
+
+A Paladin who has broken a vow typically seeks absolution from a priest of the same faith or from another Paladin of the same order.
+The Paladin might spend an all-night vigil in prayer as a sign of penitence or undertake a fast or similar act of self-denial.
+After a rite of confession and forgiveness, the Paladin starts fresh.
+
+If a Paladin willfully violates their oath and shows no sign of repentance, the consequences might be more serious.
+At the DM's discretion, an impenitent Paladin might be forced to take a more appropriate subclass or even to abandon the class and adopt another one.
 
 ### 4th Level: Feat
 
