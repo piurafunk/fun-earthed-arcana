@@ -52,7 +52,7 @@ If you're making a 1st-level character, also consult the "Starting Equipment" se
 Then look at the Paladin table to see the class features you get at each level in this class.
 The descriptions of those features appear in the "Paladin Class Features" section.
 
-### HIT POINTS
+### Hit Points
 
 **Hit Dice:** 1d10 per Paladin level  
 **Hit Points at 1st Level:** 10 + your Constitution modifier  
