@@ -235,3 +235,71 @@ You gain the following benefits:
 **Ability Score Increase:** Choose one of your ability scores. That score increases by 2, and this increase can raise the score above 20 but not above 30.
 
 **Epic Boon Feat:** You gain the Epic Boon of Spell Recall or another Epic Boon feat of your choice.
+
+## Wild Shapes
+
+When you use your Wild Shape, you transform into a form you've learned for this feature.
+This section includes three forms: Animal of the Land, Animal of the Sea, and Animal of the Sky.
+
+As you assume a form, you determine its appearance, selecting an example animal from the form's description, choosing another appropriate animal, or opting for a hybrid form that incorporates visual characteristics from two or more animals.
+The appearance you choose has no effect on the form's capabilities.
+
+When choosing an animal's appearance for a form, that animal needn't be the same size as the form.
+For example, you could choose an elephant for the appearance and Small for the size - creating a form that resembles a little elephant.
+
+### Animal of the Land
+
+An Animal of the Land is a flightless terrestrial animal, such as a bear, deer, horse, cat, dog, velociraptor, or big rodent.
+While in this form, you use the Animal of the Land stat block.
+
+- Small, Medium, or Large Terrestrial Animal (Your Creature Type Doesn't Change)  
+- Armor Class: 10 + your Wisdom modifier  
+- Hit Points: You continue to use your Hit Points and Hit Dice  
+- Speed: 40 ft., Climb 40 ft. (requires 5th+ level)  
+- STR, DEX: Equal your Wisdom score  
+- CON, INT, WIS, CHA: Use your scores  
+- Senses: Darkvision 60 ft.  
+- Languages: The languages you know  
+- Proficiency Bonus: Equals your Proficiency Bonus  
+
+**Actions:**
+- Bestial Strike: Melee Attack - Your Spell Attack Modifier to hit, reach 5 ft., one target. Hit: 1d8 + your Wisdom modifier Bludgeoning, Piercing, or Slashing damage.  
+- Multiattack (Requires 5th+ Level): You make two Bestial Strike attacks.
+
+### Animal of the Sea
+
+An Animal of the Sea is an aquatic or semiaquatic animal, such as a crocodile, dolphin, sea turtle, octopus, or shark.
+While in this form, you use the Animal of the Sea stat block.
+
+- Small, Medium, or Large Aquatic or Semiaquatic Animal (Your Creature Type Doesn't Change)  
+- Armor Class: 10 + your Wisdom modifier  
+- Hit Points: You continue to use your Hit Points and Hit Dice  
+- Speed: 20 ft., Swim 40 ft.  
+- DEX: Equal your Wisdom score  
+- STR, CON, INT, WIS, CHA: Use your scores  
+- Senses: Darkvision 90 ft.  
+- Languages: The languages you know  
+- Proficiency Bonus: Equals your Proficiency Bonus
+
+**Actions:**
+- Multiattack: You make two Bestial Strike attacks.  
+- Bestial Strike: Melee Attack - Your Spell Attack Modifier to hit, reach 5 ft., one target. Hit: 1d6 + your Wisdom modifier Bludgeoning, Piercing, or Slashing damage.
+
+### Animal of the Sky
+
+An Animal of the Sky*is a winged animal, such as a bat, eagle, falcon, pteranodon, or owl.
+While in this form, you use the Animal of the Sky stat block.
+
+- Small, Medium, or Large Winged Animal (Your Creature Type Doesn't Change)  
+- Armor Class: 8 + your Wisdom modifier  
+- Hit Points: You continue to use your Hit Points and Hit Dice  
+- Speed: 20 ft., Fly 40 ft.  
+- DEX: Equal your Wisdom score  
+- STR, CON, INT, WIS, CHA: Use your scores  
+- Senses: Darkvision 120 ft.  
+- Languages: The languages you know  
+- Proficiency Bonus: Equals your Proficiency Bonus
+
+**Actions:**
+- Multiattack: You make two Bestial Strike attacks.  
+- Bestial Strike: Melee Attack - Your Spell Attack Modifier to hit, reach 5 ft., one target. Hit: 1d4 + your Wisdom modifier Bludgeoning, Piercing, or Slashing damage.
