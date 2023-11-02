@@ -21,7 +21,7 @@ Druids are also concerned with the delicate ecological balance that sustains pla
 Druids are often found guarding sacred sites or watching over regions of unspoiled nature.
 But when a significant danger arises, threatening nature's balance or the lands they protect, Druids take a more active role as adventurers who combat the threat.
 
-## CREATING A DRUID
+## Creating a Druid
 
 To create a Druid, consult the following lists, which provide Hit Points, proficiencies, and armor training.
 If you're making a 1st-level character, also consult the "Starting Equipment" section, and if you're using the multiclassing rules, see the "Multiclassing and the Druid" sidebar.
@@ -29,24 +29,24 @@ If you're making a 1st-level character, also consult the "Starting Equipment" se
 Then look at the Druid table to see the class features you get at each level in this class.
 The descriptions of those features appear in the "Druid Class Features" section.
 
-### HIT POINTS
+### Hit Points
 
-**Hit Dice:** 1d8 per Druid level
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per Druid level  
+**Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points per Level after 1st:** 1d8 (or 5) + your Constitution modifier
 
-### PROFICIENCIES
+### Proficiencies
 
-**Saving Throws:** Intelligence, Wisdom
-**Skills (Choose 2):** Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, Survival
-**Weapons:** Simple Weapons
+**Saving Throws:** Intelligence, Wisdom  
+**Skills (Choose 2):** Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, Survival  
+**Weapons:** Simple Weapons  
 **Tools:** Herbalism Kit
 
-### ARMOR TRAINING
+### Armor Training
 
 Light Armor, Shields
 
-### STARTING EQUIPMENT
+### Starting Equipment
 
 As a 1st-level character, you start with the following equipment, or you can forgo it and spend 50 GP on equipment of your choice.
 
